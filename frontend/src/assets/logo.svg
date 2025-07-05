@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100">
+  <!-- Solid overlapping circles -->
+  <circle cx="60" cy="50" r="30" fill="#5C7FFF"></circle>
+  <circle cx="95" cy="50" r="30" fill="#1A237E"></circle>
+
+  <!-- White ECG Line -->
+  <polyline points="40,50 55,50 60,40 70,60 80,45 105,50" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></polyline>
+
+  <!-- Brand Name (perfectly spaced) -->
+  <text x="150" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1A237E">
+    Clynzo
+  </text>
+</svg>
