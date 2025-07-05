@@ -117,10 +117,6 @@ npm start
 
 ---
 
-## 📸 Sneak Peek
-
-_(insert screenshots of frontend dashboard, doctor login, admin panel etc.)_
-
 ---
 
 ## 🛠️ Customizable & Reusable
