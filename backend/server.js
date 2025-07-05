@@ -66,6 +66,7 @@ app.get("/", (req, res) => {
   res.send("API Working ✅")
 })
 
+//testing
 // Error handler for better Vercel debug
 app.use((err, req, res, next) => {
   console.error("❌ Middleware Error:", err)
